@@ -1,0 +1,3 @@
+[submodule "foundry-owner-dapp/lib/forge-std"]
+	path = foundry-owner-dapp/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
