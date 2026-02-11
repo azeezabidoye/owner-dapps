@@ -4,7 +4,7 @@ pragma solidity ^0.8.28;
 import {Script, console} from "forge-std/Script.sol";
 import {Owner} from "../src/Owner.sol";
 
-contract CounterScript is Script {
+contract OwnerScript is Script {
     Owner public owner;
 
     function setUp() public {}
